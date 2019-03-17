@@ -67,6 +67,13 @@ p {
     &:hover {
         color: #fff;
     }
+
+#logout {
+        cursor: default;
+        &:hover {
+            background-color: transparent;
+        }
+    }
 }
 
 /* footer */
